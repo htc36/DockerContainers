@@ -12,4 +12,4 @@ The above will allow you to develop the Go application and every time a save occ
 
 - cd golang
 - docker build -t helloworld -f Dockerfile.prod .
-- docker run -it --rm --name prod helloworld
+- docker run -it --rm --name hello helloworld
