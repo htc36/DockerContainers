@@ -1,3 +1,9 @@
+# Image Processing
+
+- cd imageProcessing
+- docker-compose build
+- docker-compose up
+
 # Golang
 
 ### For Development

@@ -11,3 +11,5 @@ services:
     # Important to bind/mount your codebase dir to /app dir for live reload
     volumes:
       - ./:/app
+
+    # command: sh -c "docker cp app:/app/output /Users/harrycollard/projects/dockerfun/golang/imageProcessing/output"
