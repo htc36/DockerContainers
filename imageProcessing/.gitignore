@@ -3,7 +3,6 @@
 __pycache__/
 .vscode/
 /wandb/
-/output/*
 /input/1*
 test_generation.ipynb
 /weights
