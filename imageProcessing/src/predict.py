@@ -97,9 +97,9 @@ if __name__ == '__main__':
         os.makedirs(config.weights_dir)
 
     # if not os.path.isfile(ckp_path):
-    if args.img_path != '':
-        print("Downloading weights...")
-        download_weights(ckp_path)
+    # if args.img_path != '':
+    #     print("Downloading weights...")
+    #     download_weights(ckp_path)
 
     # download_weights(ckp_path, args.size)
 
